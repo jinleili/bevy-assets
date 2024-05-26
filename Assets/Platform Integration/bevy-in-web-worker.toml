@@ -1,0 +1,4 @@
+name = "bevy-in-web-worker"
+description = "Showcasing how to run a Bevy app within a Web Worker and the interaction between HTML elements and the Bevy engine."
+link = "https://github.com/jinleili/bevy-in-web-worker"
+image = "bevy-in-web-worker.png"
